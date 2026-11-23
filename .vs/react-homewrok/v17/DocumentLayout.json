@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\batum\\Downloads\\react-homewrok\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\productsitem\\ProductItem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\components\\productsitem\\ProductItem.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\App.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\store.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\App.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\cart\\Cart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\components\\cart\\Cart.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\pagination\\Pagination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\components\\pagination\\Pagination.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\products\\Products.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\components\\products\\Products.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\login\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\components\\login\\Login.jsx||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\cart\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\features\\cart\\cart.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\products\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\features\\products\\products.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\auth\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\features\\auth\\auth.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\api\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:quiz\\src\\api\\index.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\homework1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:homework1\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\batum\\Downloads\\react-homewrok\\homework1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:homework1\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "App.css",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\App.css",
+              "RelativeDocumentMoniker": "quiz\\src\\App.css",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\App.css",
+              "RelativeToolTip": "quiz\\src\\App.css",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwDEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2026-11-03T17:03:10.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "store.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\store.js",
+              "RelativeDocumentMoniker": "quiz\\src\\store.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\store.js",
+              "RelativeToolTip": "quiz\\src\\store.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:03:18.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\index.js",
+              "RelativeDocumentMoniker": "quiz\\src\\index.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\index.js",
+              "RelativeToolTip": "quiz\\src\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:02:46.709Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductItem.jsx",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\productsitem\\ProductItem.jsx",
+              "RelativeDocumentMoniker": "quiz\\src\\components\\productsitem\\ProductItem.jsx",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\productsitem\\ProductItem.jsx",
+              "RelativeToolTip": "quiz\\src\\components\\productsitem\\ProductItem.jsx",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-11-03T17:14:13.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "App.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\App.js",
+              "RelativeDocumentMoniker": "quiz\\src\\App.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\App.js",
+              "RelativeToolTip": "quiz\\src\\App.js",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwCcAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:03:02.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cart.jsx",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\cart\\Cart.jsx",
+              "RelativeDocumentMoniker": "quiz\\src\\components\\cart\\Cart.jsx",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\cart\\Cart.jsx",
+              "RelativeToolTip": "quiz\\src\\components\\cart\\Cart.jsx",
+              "ViewState": "AgIAABAAAAAAAAAAAAAUwCUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-11-03T17:14:52.75Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pagination.jsx",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\pagination\\Pagination.jsx",
+              "RelativeDocumentMoniker": "quiz\\src\\components\\pagination\\Pagination.jsx",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\pagination\\Pagination.jsx",
+              "RelativeToolTip": "quiz\\src\\components\\pagination\\Pagination.jsx",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwB0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-11-03T17:14:36.773Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Products.jsx",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\products\\Products.jsx",
+              "RelativeDocumentMoniker": "quiz\\src\\components\\products\\Products.jsx",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\products\\Products.jsx",
+              "RelativeToolTip": "quiz\\src\\components\\products\\Products.jsx",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-11-03T17:12:36.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Login.jsx",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\login\\Login.jsx",
+              "RelativeDocumentMoniker": "quiz\\src\\components\\login\\Login.jsx",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\components\\login\\Login.jsx",
+              "RelativeToolTip": "quiz\\src\\components\\login\\Login.jsx",
+              "ViewState": "AgIAACUAAAAAAAAAAAAUwDoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003663|",
+              "WhenOpened": "2026-11-03T17:09:04.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "cart.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\cart\\cart.js",
+              "RelativeDocumentMoniker": "quiz\\src\\features\\cart\\cart.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\cart\\cart.js",
+              "RelativeToolTip": "quiz\\src\\features\\cart\\cart.js",
+              "ViewState": "AgIAABkAAAAAAAAAAAAUwC4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:08:17.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "products.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\products\\products.js",
+              "RelativeDocumentMoniker": "quiz\\src\\features\\products\\products.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\products\\products.js",
+              "RelativeToolTip": "quiz\\src\\features\\products\\products.js",
+              "ViewState": "AgIAABgAAAAAAAAAAAAUwC0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:08:00.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "auth.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\auth\\auth.js",
+              "RelativeDocumentMoniker": "quiz\\src\\features\\auth\\auth.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\features\\auth\\auth.js",
+              "RelativeToolTip": "quiz\\src\\features\\auth\\auth.js",
+              "ViewState": "AgIAACMAAAAAAAAAAAAUwDgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:07:20.498Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "index.js",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\api\\index.js",
+              "RelativeDocumentMoniker": "quiz\\src\\api\\index.js",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\quiz\\src\\api\\index.js",
+              "RelativeToolTip": "quiz\\src\\api\\index.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2026-11-03T17:05:18.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "index.html",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\homework1\\index.html",
+              "RelativeDocumentMoniker": "homework1\\index.html",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\homework1\\index.html",
+              "RelativeToolTip": "homework1\\index.html",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-11-03T13:27:45.866Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\batum\\Downloads\\react-homewrok\\homework1\\.gitignore",
+              "RelativeDocumentMoniker": "homework1\\.gitignore",
+              "ToolTip": "C:\\Users\\batum\\Downloads\\react-homewrok\\homework1\\.gitignore",
+              "RelativeToolTip": "homework1\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2026-11-03T13:27:45.032Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

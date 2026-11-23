@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\quiz",
+    "\\quiz\\src",
+    "\\quiz\\src\\components",
+    "\\quiz\\src\\components\\pagination",
+    "\\quiz\\src\\components\\products",
+    "\\quiz\\src\\components\\productsitem",
+    "\\quiz\\src\\features\\auth",
+    "\\quiz\\src\\features\\cart",
+    "\\quiz\\src\\features\\products"
+  ],
+  "SelectedNode": "\\quiz\\src\\components\\productsitem\\ProductItem.jsx",
+  "PreviewInSolutionExplorer": false
+}
